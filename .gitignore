@@ -1,0 +1,15 @@
+# Java Backend
+*.class
+target/
+build/
+.idea/
+*.log
+*.tmp
+
+# React.js Frontend
+build/
+dist/
+node_modules/
+.env
+.env.local
+.idea/
